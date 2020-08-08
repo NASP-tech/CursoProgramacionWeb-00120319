@@ -1,0 +1,60 @@
+.custom-button{
+    padding: 8px 16px;
+    background: transparent;
+
+    color: palevioletred;
+
+    border: 1px pink solid;
+}
+
+.custom-button:hover{
+    background: purple;
+    color: white;
+}
+
+section>article{
+    width: 200px;
+    height: 200px;
+
+    margin: 16px 0;
+    background: teal;
+}
+
+#first-last > article:first-child{
+    background: steelblue;
+}
+
+#first-last > article:last-child{
+    background: orchid;
+}
+
+#nth > article:nth-child(2n){
+    background: palegreen;
+}
+
+#nth > article:nth-child(3n){
+    background: navy;
+}
+
+input{
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+    padding: 16px;
+
+    font-size: 1.5 em;
+    transition: 250ms ease-in-out all;
+}
+
+input:focus{
+    outline: none;
+    border-radius: 15px 0;
+}
+
+
+
+
+
+
+
+

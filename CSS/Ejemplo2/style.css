@@ -1,0 +1,43 @@
+div{
+    width: 100px;
+    height: 100px;
+    background: #eee ;
+    margin-bottom: 10px;
+    border: 10px solid;
+}
+
+.clase{
+    border: 5px dotted #999;
+}
+
+#cajaUnica{
+    background: teal;
+}
+
+h1{
+    width: 40%;
+    padding: 16px;
+    margin: 10px auto 50px;
+    background: crimson;
+    color: white;
+    font-size: 36px;
+    letter-spacing: -2px;
+    text-align: center;
+    border-radius: 15px 0px 15px 0px;
+}
+
+p{
+    margin: 16PX;
+    text-align: justify;
+    border: 1px solid black;
+}
+
+#intro{
+    padding: 16px;
+    border: 1px solid black;
+}
+
+.important{
+    color: red;
+    font-weight: bold;
+}

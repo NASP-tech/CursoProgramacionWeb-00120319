@@ -1,0 +1,12 @@
+h1 {
+    padding: 16px;
+
+    background: crimson;
+
+    color: white;
+    font-size: 36px;
+    font-weight: 900;
+    letter-spacing: 14px;
+
+    border-radius: 15px;    
+}

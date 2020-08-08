@@ -1,0 +1,6 @@
+.parallax{
+    background-attachment: fixed;
+    background-color: teal;
+    background-position: no-repeat;
+    background-size: 100%;
+}

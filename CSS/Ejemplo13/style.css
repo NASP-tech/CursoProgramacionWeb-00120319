@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Roboto:ital,wght@0,400;0,500;1,300&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: "Monserrat", sans-serif;
+    font-size: 1.5em;
+}
+
+p{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    text-align: justify;
+}
+
+header{
+    width: 100vw;
+    height: 100vh;
+
+    margin: 0;
+    padding: 0;
+
+    background-image: url("./img/");
+    background-repeat: ;
+}
